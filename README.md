@@ -7,7 +7,7 @@ Trending GitHub Repositories Scraper:
 Para que serve?
 
 * Obtém os 10 primeiros repositórios trending do GitHub.
-* 
+
 Extrai informações como:
 * Nome do repositório (usuário/repo)
 * Linguagem principal
